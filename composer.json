@@ -1,15 +1,15 @@
 {
     "name": "ericdao/todopack",
-    "description": ":description",
-    "license": "license",
+    "description": "first demo for create package for appscyclone",
+    "license": "1.0",
     "authors": [
         {
             "name": "eric dao",
             "email": "vu.dao@apps-cyclone.com",
-            "homepage": "apps-cyclone.com"
+            "homepage": "http://apps-cyclone.com"
         }
     ],
-    "homepage": "https://github.com/ericdao/todopack",
+    "homepage": "https://github.com/daoanhvuacc/todopack.git",
     "keywords": ["Laravel", "TodoPack"],
     "require": {
         "illuminate/support": "~5",
