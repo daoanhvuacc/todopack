@@ -45,5 +45,5 @@
             "url": "https://github.com/daoanhvuacc/todopack.git"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
