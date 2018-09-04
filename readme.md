@@ -38,7 +38,6 @@ If you discover any security related issues, please email vu.dao@apps-cyclone.co
 ## Credits
 
 - [eric dao][link-author]
-- [All Contributors][link-contributors]
 
 ## License
 
