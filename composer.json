@@ -38,5 +38,11 @@
                 "TodoPack": "EricDao\\TodoPack\\Facades\\TodoPack"
             }
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/daoanhvuacc/todopack.git"
+        }
+    ]
 }
