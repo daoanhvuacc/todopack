@@ -2,6 +2,7 @@
     "name": "ericdao/todopack",
     "description": "first demo for create package for appscyclone",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "eric dao",
@@ -38,12 +39,5 @@
                 "TodoPack": "EricDao\\TodoPack\\Facades\\TodoPack"
             }
         }
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/daoanhvuacc/todopack.git"
-        }
-    ]
-
+    }
 }
