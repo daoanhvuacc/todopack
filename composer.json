@@ -44,6 +44,5 @@
             "type": "vcs",
             "url": "https://github.com/daoanhvuacc/todopack.git"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
