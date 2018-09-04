@@ -2,7 +2,6 @@
     "name": "ericdao/todopack",
     "description": "first demo for create package for appscyclone",
     "license": "MIT",
-    "version": "1.0.0",
     "authors": [
         {
             "name": "eric dao",
