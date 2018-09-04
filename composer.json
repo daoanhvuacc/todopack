@@ -38,6 +38,5 @@
                 "TodoPack": "EricDao\\TodoPack\\Facades\\TodoPack"
             }
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
